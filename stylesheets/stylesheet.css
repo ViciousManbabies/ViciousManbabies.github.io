@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  background: url("../images/body-bg.jpg");
 }
 
 /* HTML5 display definitions
