@@ -658,6 +658,8 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: url("../images/bullet.png");
+  width: 1em;
+  height: 1em;
   color: #9ddcff;
 }
 
